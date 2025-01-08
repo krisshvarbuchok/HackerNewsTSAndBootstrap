@@ -1,11 +1,12 @@
 import './App.css'
+import { RouterComponent } from './routes'
 
 function App() {
 
 
   return (
     <>
-
+      <RouterComponent />
     </>
   )
 }
